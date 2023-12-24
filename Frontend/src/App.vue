@@ -14,7 +14,7 @@ import NavBar from "./components/NavBar.vue";
 
 <style scoped>
 .slide-fade-enter-active {
-  transition: all 0.5s ease-out;
+  transition: all 0.5s ease-in-out;
 }
 .slide-fade-enter-from,
 .slide-fade-leave-to {
